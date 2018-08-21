@@ -22,9 +22,6 @@
 
 - src/html/content/
     + 存放普通页面html文件
-
-- src/html/manage/
-    + 存放管理后台页面html文件
 	
 - src/font/
     + 存放 字体文件
