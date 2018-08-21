@@ -22,11 +22,8 @@
 
 - src/html/content/
     + 存放普通页面html文件
-	
-- src/font/
-    + 存放 字体文件
 
-- src/img/
+- src/image/
     + 存放 图片文件
 
 - src/js/
