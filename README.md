@@ -1,5 +1,3 @@
-1111
-
 ## 此项目用到的技术
    jquery，artTemplate，require，gulp，sass
 

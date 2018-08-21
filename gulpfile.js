@@ -182,7 +182,7 @@ gulp.task('server', ['html', 'sass'], function() {
         server: "./",
         // scrollProportionally: false,
         // open: "external",
-        port: 3000,
+        port: 3202,
         browser: "chrome",
         logLevel: "silent",
         notify: false,              //并不总是需要在浏览器中弹出小超过通知/想要的。
